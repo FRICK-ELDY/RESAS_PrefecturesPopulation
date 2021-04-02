@@ -30,7 +30,6 @@ function doGet(e) {
               "wemen:" + json["result"]["yearLeft"]["data"][i]["woman"];
     i++;
   }
-  console.log(output);
   return output;
 }
 
