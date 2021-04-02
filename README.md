@@ -1,0 +1,2 @@
+# NeosVR_RESAS_PopulationPyramid
+NeosVRから地域経済分析システムの人口ピラミッドのデータを取得するための中間Webアプリケーション
